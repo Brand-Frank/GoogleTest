@@ -1,2 +1,6 @@
 CompileFlags:
-    Add: [ "-isystemD:/Development/MSYS2/ucrt64/include" ]
+    Add: [
+        "-isystemD:/Development/MSYS2/ucrt64/include",
+        "isystemD:/Development/MSYS2/ucrt64/include/c++/13.2.0",
+        "-isystemD:/Development/MSYS2/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/"
+    ]
