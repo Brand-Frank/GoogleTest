@@ -1,0 +1,2 @@
+CompileFlags:
+    Add: [ "-isystemD:/Development/MSYS2/ucrt64/include" ]
